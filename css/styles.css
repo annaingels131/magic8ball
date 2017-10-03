@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+  background-image: url('https://images.unsplash.com/uploads/14116941824817ba1f28e/78c8dff1?dpr=1&auto=compress,format&fit=crop&w=1233&h=&q=80&cs=tinysrgb&crop=');
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+  color: #fff;
+}
+
+input {
+  height: 20px;
+  width: 400px;
+}
+
+button {
+  margin: 20px 10px;
+  background-color: #fff;
+  padding: 10px;
+  font-size: 15px;
+
+}
